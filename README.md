@@ -4,9 +4,10 @@ To get whole part of smart contract and backend & frontend, feel free to reach o
 
 ## 👋 Contact Me
 
-https://t.me/magiceden7
-### Telegram: (https://t.me/magiceden7)  
-### Discord: (https://discordapp.com/users/985432160498491473)
+https://t.me/novustechllc
+https://wa.me/14105015750
+### Telegram: (https://t.me/novustechllc)
+### Whatsapp: (https://wa.me/14105015750)  
 
 ## Achievements in advanced version
 #### All handled in smart contracts Pumpfun uses backend client code to fetch buy transaction and create raydium pool. I've handled all that parts on smart contract to enhance the security and availability.
